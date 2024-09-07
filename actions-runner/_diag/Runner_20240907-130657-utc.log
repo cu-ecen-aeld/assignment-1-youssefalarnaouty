@@ -1,0 +1,61 @@
+[2024-09-07 13:06:57Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Root': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO HostContext] Well known config file 'Credentials': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.credentials'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Root': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO HostContext] Well known config file 'Runner': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.runner'
+[2024-09-07 13:06:57Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2024-09-07 13:06:57Z INFO Listener] RuntimeInformation: Linux 5.4.0-193-generic #213-Ubuntu SMP Fri Aug 2 19:14:16 UTC 2024.
+[2024-09-07 13:06:57Z INFO Listener] Version: 2.319.1
+[2024-09-07 13:06:57Z INFO Listener] Commit: bc6614c04d3ddc20e5ca5d5a87ae2b58dda322ec
+[2024-09-07 13:06:57Z INFO Listener] Culture: en-US
+[2024-09-07 13:06:57Z INFO Listener] UI Culture: en-US
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Root': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO Listener] Validating directory permissions for: '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO CommandLineParser] Parse
+[2024-09-07 13:06:57Z INFO CommandLineParser] Parsing 1 args
+[2024-09-07 13:06:57Z INFO CommandLineParser] parsing argument
+[2024-09-07 13:06:57Z INFO CommandLineParser] HasArgs: False
+[2024-09-07 13:06:57Z INFO CommandLineParser] Adding Command: run
+[2024-09-07 13:06:57Z INFO Listener] Arguments parsed
+[2024-09-07 13:06:57Z INFO Runner] ExecuteCommand
+[2024-09-07 13:06:57Z INFO ConfigurationStore] currentAssemblyLocation: /home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin/Runner.Listener.dll
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO ConfigurationStore] binPath: /home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Root': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO ConfigurationStore] RootFolder: /home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Root': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO HostContext] Well known config file 'Runner': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.runner'
+[2024-09-07 13:06:57Z INFO ConfigurationStore] ConfigFilePath: /home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.runner
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Root': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO HostContext] Well known config file 'Credentials': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.credentials'
+[2024-09-07 13:06:57Z INFO ConfigurationStore] CredFilePath: /home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.credentials
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Root': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.credentials_migrated'
+[2024-09-07 13:06:57Z INFO ConfigurationStore] MigratedCredFilePath: /home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.credentials_migrated
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Bin': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/bin'
+[2024-09-07 13:06:57Z INFO HostContext] Well known directory 'Root': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner'
+[2024-09-07 13:06:57Z INFO HostContext] Well known config file 'Service': '/home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.service'
+[2024-09-07 13:06:57Z INFO ConfigurationStore] ServiceConfigFilePath: /home/youssef/coursera/embedded_linux/assignment-1-youssefalarnaouty/actions-runner/.service
+[2024-09-07 13:06:57Z INFO CommandSettings] Flag 'help': 'False'
+[2024-09-07 13:06:57Z INFO CommandSettings] Flag 'version': 'False'
+[2024-09-07 13:06:57Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-09-07 13:06:57Z INFO CommandSettings] Flag 'check': 'False'
+[2024-09-07 13:06:57Z INFO CommandSettings] Command 'configure': 'False'
+[2024-09-07 13:06:57Z INFO CommandSettings] Command 'remove': 'False'
+[2024-09-07 13:06:57Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-09-07 13:06:57Z INFO ConfigurationManager] LoadSettings
+[2024-09-07 13:06:57Z INFO ConfigurationStore] IsConfigured()
+[2024-09-07 13:06:57Z INFO ConfigurationStore] IsConfigured: False
+[2024-09-07 13:06:57Z INFO ConfigurationManager] Is configured: False
+[2024-09-07 13:06:57Z ERR  Terminal] WRITE ERROR: An error occurred: Not configured. Run config.(sh/cmd) to configure the runner.
+[2024-09-07 13:06:57Z ERR  Listener] GitHub.Runner.Common.NonRetryableException: Not configured. Run config.(sh/cmd) to configure the runner.
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.LoadSettings()
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)
